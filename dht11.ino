@@ -1,4 +1,4 @@
-/*电子信息工程 minge 温湿度读取
+/*bohai university 电子信息工程 minge 温湿度读取
  *DHT11模块线路  0.96寸OLED线路
  * VCC-3.3V     GND-GND
  * DATA-UNO2    VCC-5V
